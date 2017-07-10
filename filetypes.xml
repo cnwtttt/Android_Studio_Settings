@@ -1,7 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="lnk" type="PLAIN_TEXT" />
+      <mapping pattern="program_list" type="PLAIN_TEXT" />
+      <mapping pattern="voice_program_list" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

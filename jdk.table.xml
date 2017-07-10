@@ -1,9 +1,340 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
+      <name value="Android API 16 Platform" />
+      <type value="Android SDK" />
+      <homePath value="D:\android_sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/android_sdk/docs/reference" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://D:/android_sdk/sources/android-16" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="1.8" sdk="android-16" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 17 Platform" />
+      <type value="Android SDK" />
+      <homePath value="D:\android_sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/android_sdk/docs/reference" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://D:/android_sdk/sources/android-17" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="1.8" sdk="android-17" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 18 Platform" />
+      <type value="Android SDK" />
+      <homePath value="D:\android_sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/android_sdk/docs/reference" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://D:/android_sdk/sources/android-18" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="1.8" sdk="android-18" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 19 Platform" />
+      <type value="Android SDK" />
+      <homePath value="D:\android_sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://D:/android_sdk/platforms/android-19/android.jar!/" />
+            <root type="simple" url="file://D:/android_sdk/platforms/android-19/data/res" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/android_sdk/docs/reference" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://D:/android_sdk/sources/android-19" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="1.8" sdk="android-19" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 21 Platform" />
+      <type value="Android SDK" />
+      <homePath value="D:\android_sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://D:/android_sdk/platforms/android-21/android.jar!/" />
+            <root type="simple" url="file://D:/android_sdk/platforms/android-21/data/res" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/android_sdk/docs/reference" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://D:/android_sdk/sources/android-21" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="1.8" sdk="android-21" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 22 Platform" />
+      <type value="Android SDK" />
+      <homePath value="D:\android_sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://D:/android_sdk/platforms/android-22/android.jar!/" />
+            <root type="simple" url="file://D:/android_sdk/platforms/android-22/data/res" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/android_sdk/docs/reference" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://D:/android_sdk/sources/android-22" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="1.8" sdk="android-22" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 23 Platform" />
+      <type value="Android SDK" />
+      <homePath value="D:\android_sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://D:/android_sdk/platforms/android-23/android.jar!/" />
+            <root type="simple" url="file://D:/android_sdk/platforms/android-23/data/res" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/android_sdk/docs/reference" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://D:/android_sdk/sources/android-23" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="1.8" sdk="android-23" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 24 Platform" />
+      <type value="Android SDK" />
+      <homePath value="D:\android_sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://D:/android_sdk/platforms/android-24/android.jar!/" />
+            <root type="simple" url="file://D:/android_sdk/platforms/android-24/data/res" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/android_sdk/docs/reference" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://D:/android_sdk/sources/android-24" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="1.8" sdk="android-24" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 15 Platform" />
+      <type value="Android SDK" />
+      <homePath value="D:\android_sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://D:/android_sdk/tools/support/annotations.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/android_sdk/docs/reference" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional jdk="1.8" sdk="android-15" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 25 Platform" />
+      <type value="Android SDK" />
+      <homePath value="D:\android_sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://D:/android_sdk/platforms/android-25/android.jar!/" />
+            <root type="simple" url="file://D:/android_sdk/platforms/android-25/data/res" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/android_sdk/docs/reference" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://D:/android_sdk/sources/android-25" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="1.8" sdk="android-25" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 8 Platform" />
+      <type value="Android SDK" />
+      <homePath value="D:\android_sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://D:/android_sdk/tools/support/annotations.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/android_sdk/docs/reference" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional jdk="1.8" sdk="android-8" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 20 Platform" />
+      <type value="Android SDK" />
+      <homePath value="D:\android_sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://D:/android_sdk/platforms/android-20/android.jar!/" />
+            <root type="simple" url="file://D:/android_sdk/platforms/android-20/data/res" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/android_sdk/docs/reference" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional jdk="1.8" sdk="android-20" />
+    </jdk>
+    <jdk version="2">
       <name value="1.8" />
       <type value="JavaSDK" />
-      <version value="java version &quot;1.8.0_112-release&quot;" />
+      <version value="java version &quot;1.8.0_76-release&quot;" />
       <homePath value="$APPLICATION_HOME_DIR$/jre" />
       <roots>
         <annotationsPath>
@@ -40,185 +371,6 @@
         </sourcePath>
       </roots>
       <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 19 Platform" />
-      <type value="Android SDK" />
-      <version value="java version &quot;1.8.0_112-release&quot;" />
-      <homePath value="G:\Android_SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="jar://G:/Android_SDK/platforms/android-19/android.jar!/" />
-            <root type="simple" url="file://G:/Android_SDK/platforms/android-19/data/res" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite">
-            <root type="simple" url="http://developer.android.com/reference/" />
-          </root>
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root type="simple" url="file://G:/Android_SDK/sources/android-19" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional jdk="1.8" sdk="android-19" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 21 Platform" />
-      <type value="Android SDK" />
-      <version value="java version &quot;1.8.0_112-release&quot;" />
-      <homePath value="G:\Android_SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="jar://G:/Android_SDK/platforms/android-21/android.jar!/" />
-            <root type="simple" url="file://G:/Android_SDK/platforms/android-21/data/res" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite">
-            <root type="simple" url="http://developer.android.com/reference/" />
-          </root>
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root type="simple" url="file://G:/Android_SDK/sources/android-21" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional jdk="1.8" sdk="android-21" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 22 Platform" />
-      <type value="Android SDK" />
-      <version value="java version &quot;1.8.0_112-release&quot;" />
-      <homePath value="G:\Android_SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="jar://G:/Android_SDK/platforms/android-22/android.jar!/" />
-            <root type="simple" url="file://G:/Android_SDK/platforms/android-22/data/res" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite">
-            <root type="simple" url="http://developer.android.com/reference/" />
-          </root>
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root type="simple" url="file://G:/Android_SDK/sources/android-22" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional jdk="1.8" sdk="android-22" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 23 Platform" />
-      <type value="Android SDK" />
-      <homePath value="G:\Android_SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="jar://G:/Android_SDK/platforms/android-23/android.jar!/" />
-            <root type="simple" url="file://G:/Android_SDK/platforms/android-23/data/res" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite">
-            <root type="simple" url="http://developer.android.com/reference/" />
-          </root>
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root type="simple" url="file://G:/Android_SDK/sources/android-23" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional jdk="1.8" sdk="android-23" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 24 Platform" />
-      <type value="Android SDK" />
-      <version value="java version &quot;1.8.0_112-release&quot;" />
-      <homePath value="G:\Android_SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="jar://G:/Android_SDK/platforms/android-24/android.jar!/" />
-            <root type="simple" url="file://G:/Android_SDK/platforms/android-24/data/res" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite">
-            <root type="simple" url="http://developer.android.com/reference/" />
-          </root>
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root type="simple" url="file://G:/Android_SDK/sources/android-24" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional jdk="1.8" sdk="android-24" />
-    </jdk>
-    <jdk version="2">
-      <name value="Android API 25 Platform" />
-      <type value="Android SDK" />
-      <version value="java version &quot;1.8.0_112-release&quot;" />
-      <homePath value="G:\Android_SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="jar://G:/Android_SDK/platforms/android-25/android.jar!/" />
-            <root type="simple" url="file://G:/Android_SDK/platforms/android-25/data/res" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite">
-            <root type="simple" url="http://developer.android.com/reference/" />
-          </root>
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root type="simple" url="file://G:/Android_SDK/sources/android-25" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional jdk="1.8" sdk="android-25" />
     </jdk>
   </component>
 </application>
