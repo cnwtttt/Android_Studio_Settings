@@ -4,6 +4,7 @@
       <mapping pattern="program_list" type="PLAIN_TEXT" />
       <mapping pattern="voice_program_list" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
+      <mapping ext="mp4" type="PLAIN_TEXT" />
       <mapping ext="mkv" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
