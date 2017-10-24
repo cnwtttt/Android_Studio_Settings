@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="BroseActivity" type="CLASS" />
       <mapping pattern="program_list" type="PLAIN_TEXT" />
       <mapping pattern="voice_program_list" type="PLAIN_TEXT" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
