@@ -1,12 +1,12 @@
 <templateSet group="other">
-  <template name="annotation" value="/**&#10; * @title: $MethodName$&#10; * @description: $MethodEffect$&#10; * @param: $MethodParameter$&#10; * @return: $MethodReturn$&#10; * @author: wttt&#10; * @time: $DATE$  $TIME$&#10; * @version: $Version$&#10; */" description="add annotation" toReformat="false" toShortenFQNames="true">
+  <template name="annotation" value="/**&#10; * @title $MethodName$&#10; * @description $MethodEffect$&#10; * @param $MethodParameter$&#10; * @return $MethodReturn$&#10; * @author wttt&#10; * @time $DATE$  $TIME$&#10; * @version $Version$&#10; */" description="add annotation" toReformat="false" toShortenFQNames="true">
     <variable name="MethodName" expression="methodName()" defaultValue="" alwaysStopAt="false" />
-    <variable name="MethodEffect" expression="" defaultValue="" alwaysStopAt="false" />
+    <variable name="MethodEffect" expression="annotated(&quot;annotation qname&quot;)" defaultValue="" alwaysStopAt="false" />
     <variable name="MethodParameter" expression="methodParameters()" defaultValue="" alwaysStopAt="false" />
     <variable name="MethodReturn" expression="methodReturnType()" defaultValue="" alwaysStopAt="false" />
     <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="false" />
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
-    <variable name="Version" expression="" defaultValue="" alwaysStopAt="false" />
+    <variable name="Version" expression="annotated(&quot;annotation qname&quot;)" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="OTHER" value="true" />
     </context>
