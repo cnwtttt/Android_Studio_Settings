@@ -10,6 +10,7 @@
       <mapping ext="mkv" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="db" type="SQL" />
       <removed_mapping ext="so" type="UNKNOWN" />
       <mapping pattern="selector_btn" type="XML" />
     </extensionMap>
