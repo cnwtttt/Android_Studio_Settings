@@ -13,6 +13,7 @@
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQL" />
       <mapping pattern="selector_btn" type="XML" />
+      <mapping pattern="fishanimation" type="XML" />
     </extensionMap>
   </component>
 </application>
