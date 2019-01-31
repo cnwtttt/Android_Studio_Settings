@@ -1,13 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="BroseActivity" type="CLASS" />
       <mapping pattern="program_list" type="PLAIN_TEXT" />
       <mapping pattern="voice_program_list" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
       <mapping ext="mp4" type="PLAIN_TEXT" />
       <mapping ext="mkv" type="PLAIN_TEXT" />
-      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="soxxx" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
