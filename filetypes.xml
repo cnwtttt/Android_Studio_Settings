@@ -15,6 +15,7 @@
       <mapping ext="db" type="SQL" />
       <mapping pattern="selector_btn" type="XML" />
       <mapping pattern="fishanimation" type="XML" />
+      <mapping pattern="network_security_config" type="XML" />
     </extensionMap>
   </component>
 </application>
