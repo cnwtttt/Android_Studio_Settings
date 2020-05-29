@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="this frame is Error frame" />
       <item value="The resource /dev/core/service/dev isn't found" />
     </histories>
   </component>
