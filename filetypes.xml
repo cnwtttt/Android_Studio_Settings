@@ -7,7 +7,6 @@
       <mapping pattern="program_list" type="PLAIN_TEXT" />
       <mapping pattern="voice_program_list" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
-      <mapping ext="mk" type="PLAIN_TEXT" />
       <mapping ext="mp4" type="PLAIN_TEXT" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
       <mapping ext="proto" type="PLAIN_TEXT" />
