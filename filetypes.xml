@@ -4,6 +4,7 @@
       <mapping pattern="BroseActivity" type="CLASS" />
       <mapping ext="webp" type="Image" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="voice_program_list" type="PLAIN_TEXT" />
       <mapping pattern="program_list" type="PLAIN_TEXT" />
       <mapping ext="mp4" type="PLAIN_TEXT" />
