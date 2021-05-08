@@ -1,8 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="--warning-mode all" />
       <item value="this frame is Error frame" />
       <item value="The resource /dev/core/service/dev isn't found" />
     </histories>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1620438104373" />
   </component>
 </application>
