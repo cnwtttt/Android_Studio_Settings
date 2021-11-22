@@ -12,14 +12,14 @@
       <mapping ext="mp4" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="proto" type="PLAIN_TEXT" />
-      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="mkv" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQL" />
       <mapping pattern="network_security_config" type="XML" />
       <mapping pattern="selector_btn" type="XML" />
       <mapping pattern="fishanimation" type="XML" />
-      <removed_mapping pattern=".analysis_options" type="YAML" />
+      <mapping pattern=".analysis_options" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
