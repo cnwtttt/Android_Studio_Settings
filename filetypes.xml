@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="AlgorithmTask" type="AUTO_DETECTED" />
       <mapping pattern="BroseActivity" type="CLASS" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="program_list" type="PLAIN_TEXT" />
       <mapping pattern="voice_program_list" type="PLAIN_TEXT" />
       <mapping ext="soxxx" type="PLAIN_TEXT" />
@@ -11,8 +12,8 @@
       <mapping ext="mp4" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="proto" type="PLAIN_TEXT" />
-      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="mkv" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQL" />
       <mapping pattern="network_security_config" type="XML" />
