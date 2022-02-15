@@ -8,7 +8,6 @@
             <value value="31309114600000054" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-02-14T09:16:41.857806600Z" />
         <type value="TV" />
         <name value="xiaomi MiTV-MFZP0" />
         <target value="Android 9.0" />
@@ -21,9 +20,7 @@
             <value value="wengtao" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-02-15T01:07:51.184920700Z" />
-        <type value="TV" />
-        <name value="rockchip rk3588_box" />
+        <name value="rockchip rk3588_s" />
         <target value="Android 12.0" />
         <api value="31" />
       </PhysicalDevice>
@@ -48,6 +45,122 @@
         </key>
         <type value="TV" />
         <name value="rockchip rk3588_box" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="6e2c6794137df496" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="89a356c29d5be04c" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-02-15T01:27:45.748939600Z" />
+        <type value="TV" />
+        <name value="rockchip rk3588_box" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="6e10e719bfe28b72" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="4ba7b0a2a056deb8" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-02-15T01:28:11.148326700Z" />
+        <type value="TV" />
+        <name value="rockchip rk3588_box" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="cce00c9d7bccbf08" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="273c070bdf5f9143" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-02-15T01:37:57.936538300Z" />
+        <type value="TV" />
+        <name value="rockchip rk3588_box" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="fd44aa77e0d2819a" />
+          </Key>
+        </key>
+        <name value="rockchip rk3588_s" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="6bec4c7149ba709a" />
+          </Key>
+        </key>
+        <name value="rockchip rk3588_s" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="d624acbff3fd1c9f" />
+          </Key>
+        </key>
+        <name value="rockchip rk3588_s" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="4a1da60a29f922d1" />
+          </Key>
+        </key>
+        <name value="rockchip rk3588_s" />
         <target value="Android 12.0" />
         <api value="31" />
       </PhysicalDevice>
