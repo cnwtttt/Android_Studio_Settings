@@ -8,6 +8,7 @@
             <value value="31309114600000054" />
           </Key>
         </key>
+        <lastOnlineTime value="2022-02-15T08:27:12.283741Z" />
         <type value="TV" />
         <name value="xiaomi MiTV-MFZP0" />
         <target value="Android 9.0" />
@@ -20,7 +21,8 @@
             <value value="wengtao" />
           </Key>
         </key>
-        <name value="rockchip rk3588_s" />
+        <lastOnlineTime value="2022-02-16T01:05:37.593139100Z" />
+        <name value="rockchip rk3588_xr" />
         <target value="Android 12.0" />
         <api value="31" />
       </PhysicalDevice>
