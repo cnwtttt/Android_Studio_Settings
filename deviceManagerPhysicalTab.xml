@@ -330,7 +330,19 @@
             <value value="4dc1aa04af2efed" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-08T07:17:44.092096600Z" />
+        <type value="TV" />
+        <name value="rockchip rk3588_box" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="7df3f444d3677348" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-03-08T09:02:30.987074500Z" />
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android 12.0" />
