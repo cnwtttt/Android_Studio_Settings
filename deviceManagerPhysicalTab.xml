@@ -8,7 +8,9 @@
             <value value="wengtao" />
           </Key>
         </key>
-        <name value="rockchip rk3588_s" />
+        <lastOnlineTime value="2022-03-09T01:20:06.934204500Z" />
+        <type value="TV" />
+        <name value="rockchip rk3588_box" />
         <target value="Android 12.0" />
         <api value="31" />
       </PhysicalDevice>
@@ -342,7 +344,30 @@
             <value value="7df3f444d3677348" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-08T09:02:30.987074500Z" />
+        <type value="TV" />
+        <name value="rockchip rk3588_box" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="ae3f6619efce6318" />
+          </Key>
+        </key>
+        <type value="TV" />
+        <name value="rockchip rk3588_box" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="40e3e716c55474a" />
+          </Key>
+        </key>
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android 12.0" />
