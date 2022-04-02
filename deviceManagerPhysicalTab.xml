@@ -8,7 +8,6 @@
             <value value="a88a194b47ca8559" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-02T02:31:26.271512800Z" />
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
         <api value="32" />
@@ -384,6 +383,29 @@
         <name value="rockchip rk3588_box" />
         <target value="Android 12.0" />
         <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="b1e577163ba5dd20" />
+          </Key>
+        </key>
+        <name value="rockchip rk3588_xr" />
+        <target value="Android API 32" />
+        <api value="32" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="d750b93942a54eb7" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-04-02T03:00:59.344833300Z" />
+        <name value="rockchip rk3588_xr" />
+        <target value="Android API 32" />
+        <api value="32" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
