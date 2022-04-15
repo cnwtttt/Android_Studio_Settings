@@ -601,7 +601,17 @@
             <value value="5637b1c6c3acb7e2" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-15T03:33:54.809493800Z" />
+        <name value="rockchip rk3588_xr" />
+        <target value="Android API 32" />
+        <api value="32" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="80ce35c42c0ce0a6" />
+          </Key>
+        </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
         <api value="32" />
