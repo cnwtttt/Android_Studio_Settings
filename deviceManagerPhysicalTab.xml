@@ -616,6 +616,106 @@
         <target value="Android API 32" />
         <api value="32" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="9f5b6d14daa9a67a" />
+          </Key>
+        </key>
+        <name value="rockchip rk3588_xr" />
+        <target value="Android API 32" />
+        <api value="32" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="ff7a86b620e576c0" />
+          </Key>
+        </key>
+        <name value="rockchip rk3588_xr" />
+        <target value="Android API 32" />
+        <api value="32" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="d45e4784b2d9854f" />
+          </Key>
+        </key>
+        <name value="rockchip rk3588_xr" />
+        <target value="Android API 32" />
+        <api value="32" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="b51e61b87697d93d" />
+          </Key>
+        </key>
+        <name value="rockchip rk3588_xr" />
+        <target value="Android API 32" />
+        <api value="32" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="a06a0e891b79e879" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="5d66a21fb371405d" />
+          </Key>
+        </key>
+        <name value="rockchip rk3588_xr" />
+        <target value="Android API 32" />
+        <api value="32" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="cb1d1be1db79aaaa" />
+          </Key>
+        </key>
+        <name value="rockchip rk3588_xr" />
+        <target value="Android API 32" />
+        <api value="32" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="8f0a52913f3d3331" />
+          </Key>
+        </key>
+        <name value="rockchip rk3588_xr" />
+        <target value="Android API 32" />
+        <api value="32" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="991ee1f23926ca83" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-04-15T06:17:56.752656100Z" />
+        <name value="rockchip rk3588_xr" />
+        <target value="Android API 32" />
+        <api value="32" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
