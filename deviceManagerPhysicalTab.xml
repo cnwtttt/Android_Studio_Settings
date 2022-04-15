@@ -722,10 +722,44 @@
             <value value="5bf389e39cbffbe6" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-15T06:28:10.963814700Z" />
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
         <api value="32" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="1ab488c518feeae1" />
+          </Key>
+        </key>
+        <name value="rockchip rk3588_xr" />
+        <target value="Android API 32" />
+        <api value="32" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="9201bc7f17953de3" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-04-15T06:35:05.955345100Z" />
+        <name value="rockchip rk3588_xr" />
+        <target value="Android API 32" />
+        <api value="32" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="6bf61f44" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-04-15T07:08:44.254086Z" />
+        <name value="Xiaomi Mi 10 Pro" />
+        <target value="Android 12.0" />
+        <api value="31" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
