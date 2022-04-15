@@ -744,7 +744,7 @@
             <value value="9201bc7f17953de3" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-15T07:22:14.708319500Z" />
+        <lastOnlineTime value="2022-04-15T07:42:17.695341200Z" />
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
         <api value="32" />
@@ -756,7 +756,6 @@
             <value value="6bf61f44" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-15T07:08:44.254086Z" />
         <name value="Xiaomi Mi 10 Pro" />
         <target value="Android 12.0" />
         <api value="31" />
