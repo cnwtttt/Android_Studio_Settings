@@ -5,6 +5,19 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="47ece6e3b8ccbe0d" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-04-28T00:17:59.615527100Z" />
+        <type value="TV" />
+        <name value="rockchip rk3588_box" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="5599c0c5d98765d6" />
           </Key>
         </key>
