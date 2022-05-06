@@ -14,8 +14,8 @@
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="proto" type="PLAIN_TEXT" />
       <mapping ext="bp" type="PLAIN_TEXT" />
-      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="mkv" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQL" />
       <mapping pattern="network_security_config" type="XML" />
