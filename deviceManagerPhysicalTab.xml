@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="1bceae602b38fb0" />
+          </Key>
+        </key>
+        <name value="rockchip rk3588_s" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="47ece6e3b8ccbe0d" />
           </Key>
         </key>
@@ -42,7 +53,6 @@
             <value value="wengtao" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-09T01:20:06.934204500Z" />
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android 12.0" />
@@ -55,7 +65,6 @@
             <value value="31309114600000054" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-02-15T08:27:12.283741Z" />
         <type value="TV" />
         <name value="xiaomi MiTV-MFZP0" />
         <target value="Android 9.0" />
@@ -103,7 +112,6 @@
             <value value="89a356c29d5be04c" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-02-15T01:27:45.748939600Z" />
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android 12.0" />
@@ -127,7 +135,6 @@
             <value value="4ba7b0a2a056deb8" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-02-15T01:28:11.148326700Z" />
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android 12.0" />
@@ -151,7 +158,6 @@
             <value value="273c070bdf5f9143" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-02-15T01:37:57.936538300Z" />
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android 12.0" />
@@ -219,7 +225,6 @@
             <value value="0" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-02-18T06:23:06.476316800Z" />
         <name value="Device" />
         <target value="Android 1.0" />
         <api value="1" />
@@ -255,7 +260,6 @@
             <value value="da49349f72b99d4a" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-08T01:48:16.953868400Z" />
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android 12.0" />
@@ -292,7 +296,6 @@
             <value value="142446862fc864c0" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-08T02:51:21.892378Z" />
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android 12.0" />
@@ -340,7 +343,6 @@
             <value value="566521bf992729f0" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-08T06:45:36.822077900Z" />
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android 12.0" />
@@ -353,7 +355,6 @@
             <value value="4ae76bf74b3a5b03" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-08T07:14:14.967899600Z" />
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android 12.0" />
@@ -524,7 +525,6 @@
             <value value="a42aaf052bbd8e20" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-14T11:42:09.166558400Z" />
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
         <api value="32" />
@@ -756,7 +756,6 @@
             <value value="9201bc7f17953de3" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-15T07:42:17.695341200Z" />
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
         <api value="32" />
@@ -826,7 +825,6 @@
             <value value="7e24ae2fb96a4000" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-28T07:50:51.499705400Z" />
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android API 32" />
@@ -874,7 +872,6 @@
             <value value="1da49b6302362206" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-29T03:30:54.662388400Z" />
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android API 32" />
@@ -899,7 +896,6 @@
             <value value="97c6a2ea0ad6d09c" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-29T03:35:46.637666300Z" />
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android API 32" />
