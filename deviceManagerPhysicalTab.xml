@@ -923,6 +923,94 @@
         <target value="Android 12.0" />
         <api value="31" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="0541e1f3f2a2bb06" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.2.35:5555" />
+          </Key>
+        </key>
+        <name value="rockchip rk3588_qt" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.2.135:5555" />
+          </Key>
+        </key>
+        <name value="rockchip rk3588_qt" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="28675f3a4b5ffb06" />
+          </Key>
+        </key>
+        <name value="rockchip rk3588_qt" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="7b41e9e2de822f7c" />
+          </Key>
+        </key>
+        <name value="rockchip rk3588_qt" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="1aa5f3b4e18421e1" />
+          </Key>
+        </key>
+        <name value="rockchip rk3588_qt" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="172.16.21.244:5555" />
+          </Key>
+        </key>
+        <name value="rockchip rk3588_qt" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="b18e87e731dc3c17" />
+          </Key>
+        </key>
+        <name value="rockchip rk3588_s" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
