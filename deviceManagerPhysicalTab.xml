@@ -53,10 +53,9 @@
             <value value="wengtao" />
           </Key>
         </key>
-        <type value="TV" />
-        <name value="rockchip rk3588_box" />
-        <target value="Android 12.0" />
-        <api value="31" />
+        <name value="rockchip rk3588_qt" />
+        <target value="Android 10.0" />
+        <api value="29" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
