@@ -53,9 +53,10 @@
             <value value="wengtao" />
           </Key>
         </key>
-        <name value="rockchip rk3588_qt" />
-        <target value="Android 10.0" />
-        <api value="29" />
+        <type value="TV" />
+        <name value="rockchip rk3588_box" />
+        <target value="Android API 32" />
+        <api value="32" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1141,6 +1142,87 @@
         <name value="Device" />
         <target value="Android 1.0" />
         <api value="1" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="fef8c25910d2fdd5" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="c765af89ad9d3adf" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="rockchipplatform" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="003401FF000100400000204B22451C" />
+          </Key>
+        </key>
+        <type value="TV" />
+        <name value="RockChip BULL" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="c1cf613b8b50b14b" />
+          </Key>
+        </key>
+        <type value="TV" />
+        <name value="rockchip rk3588_box" />
+        <target value="Android API 32" />
+        <api value="32" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="82493f23e869bb61" />
+          </Key>
+        </key>
+        <type value="TV" />
+        <name value="rockchip rk3588_box" />
+        <target value="Android API 32" />
+        <api value="32" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="df52a6a742cc51d4" />
+          </Key>
+        </key>
+        <type value="TV" />
+        <name value="rockchip rk3588_box" />
+        <target value="Android API 32" />
+        <api value="32" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
