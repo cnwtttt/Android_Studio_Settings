@@ -4,6 +4,7 @@
       <mapping pattern="AlgorithmTask" type="AUTO_DETECTED" />
       <mapping pattern="OpenXRRuntime" type="AUTO_DETECTED" />
       <mapping pattern="BroseActivity" type="CLASS" />
+      <removed_mapping ext="pro" type="DeviceSpecFile" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="voice_program_list" type="PLAIN_TEXT" />
@@ -18,6 +19,7 @@
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="mkv" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQL" />
+      <mapping ext="pro" type="Shrinker Config File" />
       <mapping pattern="fishanimation" type="XML" />
       <mapping pattern="network_security_config" type="XML" />
       <mapping pattern="selector_btn" type="XML" />
