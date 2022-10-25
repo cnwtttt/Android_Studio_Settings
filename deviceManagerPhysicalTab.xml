@@ -5,12 +5,24 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="wengtao" />
+          </Key>
+        </key>
+        <type value="TV" />
+        <name value="rockchip rk3588_box" />
+        <target value="Android 12L" />
+        <api value="androidversion:32:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="1bceae602b38fb0" />
           </Key>
         </key>
         <name value="rockchip rk3588_s" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -22,7 +34,7 @@
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -33,7 +45,7 @@
         </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -44,19 +56,7 @@
         </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
-        <api value="32" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="wengtao" />
-          </Key>
-        </key>
-        <type value="TV" />
-        <name value="rockchip rk3588_box" />
-        <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -68,7 +68,7 @@
         <type value="TV" />
         <name value="xiaomi MiTV-MFZP0" />
         <target value="Android 9.0" />
-        <api value="28" />
+        <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -80,7 +80,7 @@
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -92,7 +92,7 @@
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -103,7 +103,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -115,7 +114,7 @@
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -126,7 +125,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -138,7 +136,7 @@
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -149,7 +147,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -161,7 +158,7 @@
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -172,7 +169,7 @@
         </key>
         <name value="rockchip rk3588_s" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -183,7 +180,7 @@
         </key>
         <name value="rockchip rk3588_s" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -194,7 +191,7 @@
         </key>
         <name value="rockchip rk3588_s" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -205,7 +202,7 @@
         </key>
         <name value="rockchip rk3588_s" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -216,7 +213,7 @@
         </key>
         <name value="rockchip rkgeneric_s" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -227,7 +224,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -239,7 +235,7 @@
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -251,7 +247,7 @@
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -263,7 +259,7 @@
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -275,7 +271,7 @@
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -287,7 +283,7 @@
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -299,7 +295,7 @@
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -311,7 +307,7 @@
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -323,7 +319,7 @@
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -334,7 +330,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -346,7 +341,7 @@
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -358,7 +353,7 @@
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -370,7 +365,7 @@
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -382,7 +377,7 @@
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -394,7 +389,7 @@
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -406,7 +401,7 @@
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -417,7 +412,7 @@
         </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -428,7 +423,7 @@
         </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -439,7 +434,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -450,7 +444,7 @@
         </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -461,7 +455,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -472,7 +465,7 @@
         </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -483,7 +476,7 @@
         </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -494,7 +487,7 @@
         </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -505,7 +498,7 @@
         </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -516,7 +509,7 @@
         </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -527,7 +520,7 @@
         </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -538,7 +531,7 @@
         </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -549,7 +542,7 @@
         </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -560,7 +553,7 @@
         </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -571,7 +564,7 @@
         </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -582,7 +575,7 @@
         </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -593,7 +586,7 @@
         </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -604,7 +597,7 @@
         </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -615,7 +608,7 @@
         </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -626,7 +619,7 @@
         </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -637,7 +630,7 @@
         </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -648,7 +641,7 @@
         </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -659,7 +652,7 @@
         </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -670,7 +663,7 @@
         </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -681,7 +674,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -692,7 +684,7 @@
         </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -703,7 +695,7 @@
         </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -714,7 +706,7 @@
         </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -725,7 +717,7 @@
         </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -736,7 +728,7 @@
         </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -747,7 +739,7 @@
         </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -758,7 +750,7 @@
         </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -769,7 +761,7 @@
         </key>
         <name value="Xiaomi Mi 10 Pro" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -780,7 +772,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -792,7 +783,7 @@
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -804,7 +795,7 @@
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -816,7 +807,7 @@
         <type value="TV" />
         <name value="rockchip rk356x_box" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -828,7 +819,7 @@
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -839,7 +830,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -851,7 +841,7 @@
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -863,7 +853,7 @@
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -875,7 +865,7 @@
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -887,7 +877,7 @@
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -899,7 +889,7 @@
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -910,7 +900,7 @@
         </key>
         <name value="rockchip rk3588_s" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -921,7 +911,7 @@
         </key>
         <name value="rockchip rk3588_s" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -932,7 +922,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -943,7 +932,7 @@
         </key>
         <name value="rockchip rk3588_qt" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -954,7 +943,7 @@
         </key>
         <name value="rockchip rk3588_qt" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -965,7 +954,7 @@
         </key>
         <name value="rockchip rk3588_qt" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -976,7 +965,7 @@
         </key>
         <name value="rockchip rk3588_qt" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -987,7 +976,7 @@
         </key>
         <name value="rockchip rk3588_qt" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -998,7 +987,7 @@
         </key>
         <name value="rockchip rk3588_qt" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1009,7 +998,7 @@
         </key>
         <name value="rockchip rk3588_s" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1020,7 +1009,7 @@
         </key>
         <name value="rockchip rk3588_qt" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1031,7 +1020,7 @@
         </key>
         <name value="rockchip rk3588_qt" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1042,7 +1031,7 @@
         </key>
         <name value="rockchip rk3588_qt" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1053,7 +1042,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1064,7 +1052,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1075,7 +1062,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1086,7 +1072,7 @@
         </key>
         <name value="rockchip rk3588_qt" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1097,7 +1083,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1108,7 +1093,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1119,7 +1103,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1130,7 +1113,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1141,7 +1123,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1152,7 +1133,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1163,7 +1143,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1174,7 +1153,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1186,7 +1164,7 @@
         <type value="TV" />
         <name value="RockChip BULL" />
         <target value="Android 9.0" />
-        <api value="28" />
+        <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1198,7 +1176,7 @@
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1210,7 +1188,7 @@
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1222,7 +1200,7 @@
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1233,7 +1211,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1245,7 +1222,7 @@
         <type value="TV" />
         <name value="rockchip rk3588_box" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1256,7 +1233,7 @@
         </key>
         <name value="rockchip rk3588_s" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1267,7 +1244,7 @@
         </key>
         <name value="rockchip rk3588_s" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1278,7 +1255,7 @@
         </key>
         <name value="rockchip rk3588_s" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1289,7 +1266,7 @@
         </key>
         <name value="rockchip rk3588_s" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1300,7 +1277,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1311,7 +1287,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1322,7 +1297,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1333,7 +1307,7 @@
         </key>
         <name value="rockchip rk3588_s" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1344,7 +1318,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1355,7 +1328,7 @@
         </key>
         <name value="rockchip rk3588_s" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1366,7 +1339,7 @@
         </key>
         <name value="rockchip rk3588_s" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1377,7 +1350,7 @@
         </key>
         <name value="rockchip rk3588_s" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1388,7 +1361,7 @@
         </key>
         <name value="rockchip rk3588_s" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1399,7 +1372,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1410,7 +1382,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1421,7 +1392,7 @@
         </key>
         <name value="rockchip rk3588_s" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1432,7 +1403,7 @@
         </key>
         <name value="rockchip rk3588_s" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1443,7 +1414,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1454,7 +1424,7 @@
         </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -1465,7 +1435,7 @@
         </key>
         <name value="rockchip rk3588_xr" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
