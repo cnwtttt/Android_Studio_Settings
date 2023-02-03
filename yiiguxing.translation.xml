@@ -9,4 +9,12 @@
   <component name="Cache">
     <option name="lastTrimTime" value="1620438104373" />
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1675416941805" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="captureRequestBuilder = cameraDevice.createCaptureRequest(CameraDevice.TEMPLATE_PREVIEW); captureRequestBuilder.addTarget(new Surface(textureView.getSurfaceTexture()));" />
+    </histories>
+  </component>
 </application>
