@@ -1488,9 +1488,21 @@
           </Key>
         </key>
         <type value="TV" />
-        <name value="RockChip RK3528" />
-        <target value="Android 9.0" />
-        <api value="androidversion:28:null:null:true" />
+        <name value="RockChip BULL" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="Y77ED9T9PY" />
+          </Key>
+        </key>
+        <type value="TV" />
+        <name value="RockChip BULL" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
