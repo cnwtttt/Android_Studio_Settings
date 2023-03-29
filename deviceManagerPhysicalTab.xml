@@ -5,10 +5,10 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="192.168.2.126:5555" />
+            <value value="541e1f3f2a2bb06" />
           </Key>
         </key>
-        <name value="rockchip rk3588_xrbox" />
+        <name value="rockchip rk3588m_car" />
         <target value="Android 12L" />
         <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
@@ -16,10 +16,10 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="541e1f3f2a2bb06" />
+            <value value="192.168.2.126:5555" />
           </Key>
         </key>
-        <name value="rockchip rk3588_xr" />
+        <name value="rockchip rk3588_xrbox" />
         <target value="Android 12L" />
         <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
