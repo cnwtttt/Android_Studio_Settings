@@ -1536,6 +1536,17 @@
         <target value="Android 12L" />
         <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="3131d0c5018f0062" />
+          </Key>
+        </key>
+        <name value="rockchip rk3588m_car" />
+        <target value="Android 12L" />
+        <api value="androidversion:32:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
