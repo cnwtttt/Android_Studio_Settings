@@ -1,13 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="onKeyEvent" />
         <option value="MainActi" />
         <option value="minputDevice" />
         <option value="mInputDeviceIds" />
-        <option value="package:mine " />
         <option value="package:com.example.automotive" />
         <option value="process:" />
         <option value="process:mine" />
